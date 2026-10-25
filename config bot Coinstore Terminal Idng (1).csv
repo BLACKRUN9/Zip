@@ -1,0 +1,19 @@
+2,account_id,OOQ4V,
+3,price_source,reference,reference
+4,price_decimal,4,
+5,quantity_decimal,2,
+6,random_min_quantity,12.0,
+7,random_max_quantity,28.0,
+8,order_count,5,
+9,expire_time,113.0,
+10,transaction_type,sell_only,sell_only
+11,split_order_mode,manual,manual
+12,split_range,"[0.045, 0.3, 0.3, 0.3, 0.3]",
+13,buy_trailing_min_percentage,None,
+14,buy_trailing_max_percentage,None,
+15,sell_trailing_min_percentage,None,
+16,sell_trailing_max_percentage,None,
+17,buy_max_price_limit,4.6,
+18,sell_min_price_limit,3.5,
+19,jitter_timing_pct,20.0,
+20,jitter_price_pct,5.0,
